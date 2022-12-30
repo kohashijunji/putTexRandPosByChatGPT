@@ -1,4 +1,4 @@
-# putTexRandPosByChatGPT
+# texScatterByChatGPT
 ## JavaScript for Adobe Illustrator created using ChatGPT for my first time for the New Year's greeting for 2023.
 
 - It is disposable code that should work for now, so no refactoring or error handling is done.
