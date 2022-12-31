@@ -9,4 +9,4 @@ Therefore, I divided the code into as many small methods as possible, asked ques
 Below is the actual postcard design used.  
 The artboard was made the size of a postcard, the scattered text was increased to about 20,000, and the font was specified and the layout adjusted.
 
-<img src="https://user-images.githubusercontent.com/3921332/210064926-f543a399-17ec-4632-ad9f-9667a7974808.jpg" width="50%" alt="Postcard Preview">
+<img src="https://user-images.githubusercontent.com/3921332/210064926-f543a399-17ec-4632-ad9f-9667a7974808.jpg" width="50%" alt="Postcard Preview" style="min-width:360px;">
